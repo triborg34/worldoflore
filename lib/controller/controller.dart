@@ -39,7 +39,7 @@ class AudioVaribales extends GetxController {
 class RsssFeed extends GetxController {
   List<PODMODEL> podmodel = <PODMODEL>[].obs;
   var url =
-      "http://rss.castbox.fm/everest/bbcc3f95966546cfb013c142326f1a59.xml";
+      "https://anchor.fm/s/7435059c/podcast/rss";
 
   void getData() async {
     // ignore: unused_local_variable
