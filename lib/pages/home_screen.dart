@@ -24,6 +24,7 @@ class _HomeState extends State<Home> {
       'https://podcasts.apple.com/us/podcast/world-of-lore-%D9%BE%D8%A7%D8%AF%DA%A9%D8%B3%D8%AA-%D8%AF%D9%86%DB%8C%D8%A7%DB%8C-%D9%82%D8%B5%D9%87-%D9%87%D8%A7/id1598793857');
   Uri zillink = Uri.parse('https://zil.ink/worldoflore');
   Uri castbox = Uri.parse('https://castbox.fm/channel/id4676715?country=us');
+  
 
   @override
   void initState() {
