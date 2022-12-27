@@ -146,7 +146,7 @@ class _HomeState extends State<Home> {
                               }
                             },
                             child: Image.asset(
-                              'images/Spotify.png',
+                              'assets/images/Spotify.png',
                               width: 100,
                               // height: 0,
                             )),
@@ -158,7 +158,7 @@ class _HomeState extends State<Home> {
                             }
                           },
                           child: Image.asset(
-                            'images/GooglePodcast.png',
+                            'assets/images/GooglePodcast.png',
                             width: 150,
                             // height: 0,
                           ),
@@ -171,7 +171,7 @@ class _HomeState extends State<Home> {
                             }
                           },
                           child: Image.asset(
-                            'images/ApplePodcast.png',
+                            'assets/images/ApplePodcast.png',
                             width: 150,
                             // height: 0,
                           ),
@@ -183,7 +183,7 @@ class _HomeState extends State<Home> {
                             }
                           },
                           child: Image.asset(
-                            'images/zillink.png',
+                            'assets/images/zillink.png',
                             width: 100,
                             // height: 0,
                           ),
@@ -195,7 +195,7 @@ class _HomeState extends State<Home> {
                             }
                           },
                           child: Image.asset(
-                            'images/castbox.png',
+                            'assets/images/castbox.png',
                             width: 100,
                             // height: 1,
                           ),
