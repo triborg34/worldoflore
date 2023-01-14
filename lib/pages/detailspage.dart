@@ -74,30 +74,30 @@ class _DetailsPageState extends State<DetailsPage> {
                             )),
                       ),
                     ),
-                    Positioned(
-                        top: 200,
-                        child: Container(
-                          // margin: EdgeInsets.symmetric(horizontal: 0.5),
-                          width: Get.width,
-                          height: 170,
-                          decoration: BoxDecoration(
-                              gradient: LinearGradient(
-                            begin: Alignment.bottomCenter,
-                            end: Alignment.topCenter,
-                            colors: [
-                              mainFrame.withOpacity(1),
-                              mainFrame.withOpacity(1),
-                              mainFrame.withOpacity(1),
-                              mainFrame.withOpacity(1),
-                              mainFrame.withOpacity(0),
-                              mainFrame.withOpacity(0),
-                              mainFrame.withOpacity(0),
-                              mainFrame.withOpacity(0),
-                              mainFrame.withOpacity(0),
-                              mainFrame.withOpacity(0)
-                            ],
-                          )),
-                        ))
+                    // Positioned(
+                    //     top: 200,
+                    //     child: Container(
+                    //       // margin: EdgeInsets.symmetric(horizontal: 0.5),
+                    //       width: Get.width,
+                    //       height: 170,
+                    //       decoration: BoxDecoration(
+                    //           gradient: LinearGradient(
+                    //         begin: Alignment.bottomCenter,
+                    //         end: Alignment.topCenter,
+                    //         colors: [
+                    //           mainFrame.withOpacity(1),
+                    //           mainFrame.withOpacity(1),
+                    //           mainFrame.withOpacity(1),
+                    //           mainFrame.withOpacity(1),
+                    //           mainFrame.withOpacity(0),
+                    //           mainFrame.withOpacity(0),
+                    //           mainFrame.withOpacity(0),
+                    //           mainFrame.withOpacity(0),
+                    //           mainFrame.withOpacity(0),
+                    //           mainFrame.withOpacity(0)
+                    //         ],
+                    //       )),
+                    //     ))
                   ]),
                   Container(
                     height: 120,
